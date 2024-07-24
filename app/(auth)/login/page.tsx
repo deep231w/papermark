@@ -31,7 +31,7 @@ export default function Login() {
 
   return (
     <div className="flex h-screen w-full flex-wrap ">
-      {/* Left part */}
+      {/* Left part */} 
       <div className="flex w-full justify-center bg-white md:w-1/2 lg:w-2/5">
         <div
           className="absolute inset-x-0 top-10 -z-10 flex transform-gpu justify-center overflow-hidden blur-3xl"
